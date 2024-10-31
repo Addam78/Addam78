@@ -1,7 +1,7 @@
 ## Ola, eu sou o Addam 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/invites/contact/?igsh=1q176lgsq86zc&utm_content=pkj2v7)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Addam78)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addam-cosmo-a5590317a/)
 
 ![Addam GitHub stats](https://github-readme-stats.vercel.app/api?username=Addam&show_icons=true&theme=onedark)
 
